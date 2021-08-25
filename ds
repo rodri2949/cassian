@@ -1,0 +1,24 @@
+[33mcommit b8c953183f369aecd8b87c330ca874db1924de3e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: a4fb515 0001e0f
+Author: rodrigo amoroso <rodrigog.amoroso@gmail.com>
+Date:   Tue Aug 17 22:30:55 2021 -0300
+
+    Merge branch 'proyectoOK'
+
+[33mcommit 0001e0ff8357374918e28fcaae7db3ce42ea72b4[m[33m ([m[1;32mproyectoOK[m[33m)[m
+Author: rodrigo amoroso <rodrigog.amoroso@gmail.com>
+Date:   Tue Aug 17 18:41:00 2021 -0300
+
+    creo pagina pruebaGIT
+
+[33mcommit a4fb5158a571c297d375cf66f62f191f08ec6082[m
+Author: rodrigo amoroso <rodrigog.amoroso@gmail.com>
+Date:   Tue Aug 17 18:26:13 2021 -0300
+
+    modifique pagina nosotros el nombre que se muestra y es enlace a index.html
+
+[33mcommit 33a7fd3ebef5d2d63e4a6eeb26409c1cd3df8c74[m
+Author: rodrigo amoroso <rodrigog.amoroso@gmail.com>
+Date:   Sun Aug 15 21:37:36 2021 -0300
+
+    inicializando mi proyecto, archivos iniciales
